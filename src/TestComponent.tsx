@@ -1,11 +1,11 @@
-
+import './App.scss'
 
 function TestComponent() {
 
   return (
     <>
-    <p>
-      Welcome to DevNetwork 2024
+    <p className='welcome-devnetwork'>
+      Welcome to DevNetwork Conference - 2024
     </p>
     </>
   )
